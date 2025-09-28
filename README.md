@@ -8,9 +8,10 @@ Ye project ek **Discord bot** hai jo [Google Gemini API Key ](https://aistudio.g
 - Auto-truncate messages (Discord limit ke liye)
 - Easy setup
 
-## Setup Vedio
+## 📺 Tutorial
 
-- 
+- **Full setup + explanation video available on my YouTube channel:**
+👉 [ Vedio ]()
 
 ## Installation
 
