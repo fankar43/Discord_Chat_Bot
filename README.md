@@ -1,7 +1,7 @@
 # Discord Gemini Chatbot 🤖✨
 
 Ye project ek **Discord bot** hai jo [Google Gemini API Key ](https://aistudio.google.com/apikey) ka use karta hai messages ke jawab dene ke liye.  
-**Discord Bot Token** [Google Gemini API Key ](https://discord.com/developers/applications)
+**Discord Bot Token** [Discord Developer Account ](https://discord.com/developers/applications)
 ## Features
 - Discord chat integration
 - Google Gemini AI se intelligent responses
